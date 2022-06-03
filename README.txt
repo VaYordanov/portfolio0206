@@ -1,5 +1,5 @@
-Hello first line :):):)
-sekond line 
+Hello first line:)
+sekond line
 third line
 fourth line
 :)
