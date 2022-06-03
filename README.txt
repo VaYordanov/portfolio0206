@@ -4,4 +4,4 @@ sekond line text from my portfolio0206
 third line
 fourth line ??????
 :)
-ala bala
+ala bala nica
