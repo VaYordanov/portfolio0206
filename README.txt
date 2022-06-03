@@ -1,4 +1,4 @@
-Hello first line:)lalalala friday
+Hello first line:)lalalala friday lalalalalala
 <<<<<<< Updated upstream
 sekond line text from my portfolio0206
 third line
